@@ -7,7 +7,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 		echo "yessir!"
 	}
 
-![Sample image](https://drive.google.com/file/d/1LuZkNMfQ9lhrxMEIAu8VKFkJa6tNZoxP/view?usp=sharing)
+![Sample image](https://drive.google.com/file/d/1LuZkNMfQ9lhrxMEIAu8VKFkJa6tNZoxP/view?usp=sharing](https://drive.google.com/uc?id=1LuZkNMfQ9lhrxMEIAu8VKFkJa6tNZoxP)
 
 # Files
 

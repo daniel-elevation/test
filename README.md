@@ -6,9 +6,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 	while(daniel == "the man"){
 		echo "yessir!"
 	}
-
-![Sample image](https://drive.google.com/file/d/1LuZkNMfQ9lhrxMEIAu8VKFkJa6tNZoxP/view?usp=sharing](https://drive.google.com/uc?id=1LuZkNMfQ9lhrxMEIAu8VKFkJa6tNZoxP)
-
+![enter image description here](https://drive.google.com/uc?id=1LuZkNMfQ9lhrxMEIAu8VKFkJa6tNZoxP)
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
